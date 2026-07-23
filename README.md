@@ -16,9 +16,9 @@ A real-time object detection system that streams from RTSP sources and performs 
 
 View sample output videos showcasing the object detection pipeline:
 
-https://user-images.githubusercontent.com/videos/demo_video.mp4
+![Demo Video](https://github.com/sfgrahman/Object_detection_rtsp_yolo/raw/main/demo_video.mp4)
 
-Or download the demo video: [demo_video.mp4](https://github.com/sfgrahman/Object_detection_rtsp_yolo/raw/main/demo_video.mp4)
+**Download:** [demo_video.mp4](https://github.com/sfgrahman/Object_detection_rtsp_yolo/raw/main/demo_video.mp4)
 
 **Sample Output Features:**
 - Split-screen display (Raw Feed vs. AI Detections)
